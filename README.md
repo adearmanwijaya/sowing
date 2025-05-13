@@ -6,7 +6,7 @@ Register Sowing Taker [Here](https://sowing.taker.xyz/?start=KR7TTJZR)
 
 - Auto Reff
 - Auto Mining (include bypass)
-- Support capsolver / 2captcha
+- Support capsolver, 2captcha, anticaptcha, sctg, [local](https://github.com/Theyka/Turnstile-Solver)
 - Need Proxy
 - Auto Loop every N Minutes
 
